@@ -1,2 +1,3 @@
 # Aplikasi-Dompet-AnakKos
-Tugas Kelompok 4
+Widya Wulandari
+Choiril Anwar F
